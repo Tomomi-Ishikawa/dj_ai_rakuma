@@ -1,1 +1,1 @@
-# rakuma_ai_app
+# dj_ai_rakuma
